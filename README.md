@@ -8,7 +8,3 @@ This small script finds the first product on www.amazon.com for a specific query
 <ul>
   <li>phpQuery</li>
 </ul>
-
-## Live demo
-
-	http://fierce-brook-1955.herokuapp.com/
